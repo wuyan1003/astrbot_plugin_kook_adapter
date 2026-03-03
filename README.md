@@ -1,3 +1,6 @@
+# 此项目已经合并进Astrbot官方仓库中,[详见Astrbot PR #5658](https://github.com/AstrBotDevs/AstrBot/pull/5658),此仓库不在维护
+
+
 # 🎮 Kook 适配器：为 AstrBot 开启 Kook 交互新体验  
 
 
